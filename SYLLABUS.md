@@ -42,17 +42,17 @@ Notes from each class will also be posted to this repository after each class se
 
 ### August 29: Introduction to Web Development and Version Control
 *Homework*: Create a simple application to understand the basics of MVC and http fundamentals, posted to Github.
-
-### September 5: Intro to Web 2.0 and Databases
-* *Homework*: Convert your web app to use ajax to load and set data via an API instead of using page
 * *Homework*: there will be discussion on two reading assignments in the following lecture:
     * [Why New York Subway Lines are Missing Train Clocks](https://www.theatlantic.com/technology/archive/2015/11/why-dont-we-know-where-all-the-trains-are/415152/)
     * “Planning” chapter from eXtreme Programming Explained.
 
-### September 12: How We Build Software in Teams
+### September 5: How We Build Software in Teams
 * Discussion of assigned readings.
 * Introduction to planning.
 * *Homework*: each group has tasks ready on Trello for the next session.
+    
+### September 12: Intro to Web 2.0 and Databases
+* *Homework*: Convert your web app to use ajax to load and set data via an API instead of using page
 * *Homework*: there will be discussion on one assigned reading in the following lecture:
     * “Pairing” chapter from eXtreme Programming Explained.
 
