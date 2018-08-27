@@ -8,7 +8,7 @@ Arylee Mcsweaney, amcsweaney@etsy.com
 
 Rebecca Sliter, rsliter@etsy.com
 
-Group slack: #general in hunter-agile-web-development
+Group slack: #general in [Hunter College Agile Dev](https://huntercollegeagiledev.slack.com/)  Slack channel
 
 ## Objective
 Help college seniors to experience agile engineering by simulating a real world environment where engineers build out iterations on features, commit code to Github, learn about how teams operate, and deliver a working product.
