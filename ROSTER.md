@@ -10,3 +10,5 @@
 * Johnny Qiu : QiuJohnny26
 * Mohamed Raffik: MohamedRaffik
 * Harneet Kaur: harneetkaur9
+* Ray Contreras: raythecon
+* Qiuqun Wang: HakQ
