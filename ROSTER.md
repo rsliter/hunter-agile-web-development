@@ -21,9 +21,6 @@
  * pasang sherpa: codeMacha
 * Mohammed Elsayed: SmallMoist
 * Mohammed Elsayed: SmallMoist * pasang sherpa: codeMacha 
-<<<<<<< HEAD
->>>>>>> 57ba8b1ead7f15fa0667084f8d12d9f5a9c409f8
+
 * Pian Sang: piansang
 
-=======
->>>>>>> 9c1ade0e01689724bf22d2a82607d6e98b6fe9ed
