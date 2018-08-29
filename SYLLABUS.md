@@ -41,7 +41,7 @@ The adjunct lecturers will deliver a talk on a particular topic at the beginning
 Notes from each class will also be posted to this repository after each class session.
 
 ### August 29: Introduction to Web Development and Version Control
-*Homework*: Create a new Flask app for a Calculator, and push it to a repository on your Github account. The app should contain the following endpoints:
+* *Homework*: Create a new Flask app for a Calculator, and push it to a repository on your Github account. The app should contain the following endpoints:
   * /add
   * /subtract
   * /multiply
