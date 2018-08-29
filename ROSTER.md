@@ -14,3 +14,4 @@
 * Harneet Kaur: harneetkaur9
 * Ray Contreras: raythecon
 * Qiuqun Wang: HakQ
+* Mohammed Elsayed: SmallMoist
