@@ -2,10 +2,7 @@
 * Arylee McSweaney: amcsweaney
 * Emily Ramjit: emily-ramjit
 * Artjom Plaunov: artjomPlaunov 
-<<<<<<< HEAD
 * Shelly Huang
-=======
->>>>>>> a88dfc1eacb6a58a309667d6c81325832cde926c
 * Hasan Abdullah: HasanAbdullah31
 * Shelly Huang
 * Jack Chen
