@@ -10,7 +10,7 @@
 * Johnny Qiu : QiuJohnny26
 * Mohamed Raffik: MohamedRaffik
 * Yin Yu: c135792468
-* Kristoff Campbell: Wicked223
+* Kristoff Campbell: kristoff-campbell28
 * Harneet Kaur: harneetkaur9
 * Ray Contreras: raythecon
 * Qiuqun Wang: HakQ
