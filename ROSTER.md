@@ -1,26 +1,22 @@
-* Rebecca Sliter: rsliter
-* Arylee McSweaney: amcsweaney
-* Emily Ramjit: emily-ramjit
 * Artjom Plaunov: artjomPlaunov 
-* Shelly Huang
-* Hasan Abdullah: HasanAbdullah31
-* Shelly Huang
-* Jack Chen
+* Arylee McSweaney: amcsweaney
 * Chuk Ho Wu: chuckolate
-* Shelly Huang
-* Jack Chen
-* Kevin R Espinola: kre64 *Pasang Sherpa: codeMacha
-* Kevin R Espinola: kre64
-* Johnny Qiu : QiuJohnny26
-* Mohamed Raffik: MohamedRaffik
-* Yin Yu: c135792468
-* Kristoff Campbell: kristoff-campbell28
+* Emily Ramjit: emily-ramjit
 * Harneet Kaur: harneetkaur9
-* Ray Contreras: raythecon
-* Qiuqun Wang: HakQ
- * pasang sherpa: codeMacha
+* Hasan Abdullah: HasanAbdullah31
+* Jack Chen
+* Johnny Qiu : QiuJohnny26
+* Kevin R Espinola: kre64
+* Kristoff Campbell: kristoff-campbell28
+* Mohamed Raffik: MohamedRaffik
 * Mohammed Elsayed: SmallMoist
 * Mohammed Elsayed: SmallMoist * pasang sherpa: codeMacha 
 
 * Pian Sang: piansang
 
+* Pasang Sherpa: codeMacha
+* Qiuqun Wang: HakQ
+* Ray Contreras: raythecon
+* Rebecca Sliter: rsliter
+* Shelly Huang
+* Yin Yu: c135792468
