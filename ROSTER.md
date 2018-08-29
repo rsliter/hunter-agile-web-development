@@ -26,5 +26,5 @@
 * Mohammed Elsayed: SmallMoist
 >>>>>>> 9006793a4f237cc646951a2f057c0fe3b9e63ca6
 =======
-* Mohammed Elsayed: SmallMoist
+* Mohammed Elsayed: SmallMoist * pasang sherpa: codeMacha 
 >>>>>>> 57ba8b1ead7f15fa0667084f8d12d9f5a9c409f8
