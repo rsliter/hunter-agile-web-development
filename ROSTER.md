@@ -12,12 +12,13 @@
 * Kevin R Espinola: kre64
 * Johnny Qiu : QiuJohnny26
 * Kevin R Espinola: kre64
-* Kevin R Espinola: kre64 *Pasang Sherpa: codeMacha
-* Kristoff Campbell: Wicked223
 * Kristoff Campbell: kristoff-campbell28
 * Mohamed Raffik: MohamedRaffik
 * Mohammed Elsayed: SmallMoist
 * Mohammed Elsayed: SmallMoist * pasang sherpa: codeMacha 
+
+* Pian Sang: piansang
+
 * Pasang Sherpa: codeMacha
 * Qiuqun Wang: HakQ
 * Ray Contreras: raythecon
