@@ -5,6 +5,11 @@
 * Harneet Kaur: harneetkaur9
 * Hasan Abdullah: HasanAbdullah31
 * Jack Chen
+* Chuk Ho Wu: chuckolate
+* Shelly Huang
+* Jack Chen
+* Kevin R Espinola: kre64 *Pasang Sherpa: codeMacha
+* Kevin R Espinola: kre64
 * Johnny Qiu : QiuJohnny26
 * Kevin R Espinola: kre64
 * Kevin R Espinola: kre64 *Pasang Sherpa: codeMacha
@@ -19,3 +24,8 @@
 * Rebecca Sliter: rsliter
 * Shelly Huang
 * Yin Yu: c135792468
+* Harneet Kaur: harneetkaur9
+* Ray Contreras: raythecon
+* Qiuqun Wang: HakQ
+* Mohammed Elsayed: SmallMoist
+* Alina Zhong
