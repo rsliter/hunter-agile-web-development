@@ -41,7 +41,12 @@ The adjunct lecturers will deliver a talk on a particular topic at the beginning
 Notes from each class will also be posted to this repository after each class session.
 
 ### August 29: Introduction to Web Development and Version Control
-*Homework*: Create a simple application to understand the basics of MVC and http fundamentals, posted to Github.
+*Homework*: Create a new Flask app for a Calculator, and push it to a repository on your Github account. The app should contain the following endpoints:
+  * /add
+  * /subtract
+  * /multiply
+  * /divide
+
 * *Homework*: there will be discussion on two reading assignments in the following lecture:
     * [Why New York Subway Lines are Missing Train Clocks](https://www.theatlantic.com/technology/archive/2015/11/why-dont-we-know-where-all-the-trains-are/415152/)
     * “Planning” chapter from eXtreme Programming Explained.
