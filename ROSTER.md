@@ -3,4 +3,5 @@
 * Chuk Ho Wu: chuckolate
 * Shelly Huang
 * Jack Chen
+* Kevin R Espinola: kre64
 * Mohamed Raffik: MohamedRaffik
