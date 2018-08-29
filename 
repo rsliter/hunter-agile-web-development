@@ -1,0 +1,62 @@
+[33mcommit 2d80c7b235c365880d7d2dfbacbb2f1097798477[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rebecca Sliter <sliterrm@gmail.com>
+Date:   Wed Aug 29 15:12:45 2018 -0400
+
+    formatting tweak
+
+[33mcommit 99caf1ddca72a0460da50612e7f3cd1bbe0e50c1[m
+Author: Rebecca Sliter <sliterrm@gmail.com>
+Date:   Wed Aug 29 15:11:52 2018 -0400
+
+    Making 8/29 homework more clear
+    
+    Create a new Flask app for a Calculator. It should contain the following endpoints:
+    
+    /add
+    /subtract
+    /multiply
+    /divide
+    
+    Once you’re done, post it to your Github account.
+
+[33mcommit e920adc094a978459cb5dca80962f64b6488b92d[m
+Author: rsliter <rsliter@etsy.com>
+Date:   Tue Aug 28 17:14:57 2018 -0400
+
+    Adding roster to syllabus
+
+[33mcommit 72586d18e1374c23f2d2478db4caa88c52ee4943[m
+Author: Rebecca Sliter <sliterrm@gmail.com>
+Date:   Mon Aug 27 18:02:38 2018 -0400
+
+    Updating dates on syllabus
+
+[33mcommit 83d932c2da33e041965fb9b69a28f1000521b09e[m
+Author: Rebecca Sliter <sliterrm@gmail.com>
+Date:   Mon Aug 27 17:52:50 2018 -0400
+
+    Add Slack channel to syllabus
+
+[33mcommit 73a4c8b68a809181545534d03f4b6cb138e09106[m
+Author: amcsweaney <42351118+amcsweaney@users.noreply.github.com>
+Date:   Fri Aug 17 10:34:20 2018 -0400
+
+    Delete RUBRICS.md
+
+[33mcommit d02467a91a242263439cee033feafe08708b45ac[m
+Author: amcsweaney <42351118+amcsweaney@users.noreply.github.com>
+Date:   Fri Aug 17 10:34:05 2018 -0400
+
+    Code Contribution Grading Rubric
+
+[33mcommit b5089884eb5c670adfb47ae873a628d91efbfd87[m
+Author: rsliter <rsliter@etsy.com>
+Date:   Sun Aug 12 10:24:05 2018 -0400
+
+    First pass at a Syllabus
+
+[33mcommit f8a899a048985333aa87fe8a269201c95c644b98[m
+Author: Rebecca Sliter <sliterrm@gmail.com>
+Date:   Sun Aug 12 10:08:27 2018 -0400
+
+    Initial commit
