@@ -1,34 +1,18 @@
-* Rebecca Sliter: rsliter
-* Arylee McSweaney: amcsweaney
-* Emily Ramjit: emily-ramjit
 * Artjom Plaunov: artjomPlaunov 
-<<<<<<< HEAD
-* Shelly Huang
-=======
->>>>>>> a88dfc1eacb6a58a309667d6c81325832cde926c
-* Hasan Abdullah: HasanAbdullah31
-* Shelly Huang
-* Jack Chen
+* Arylee McSweaney: amcsweaney
 * Chuk Ho Wu: chuckolate
-<<<<<<< HEAD
-* Shelly Huang
-* Jack Chen
-* Kevin R Espinola: kre64 *Pasang Sherpa: codeMacha
-=======
-* Kevin R Espinola: kre64
-* Johnny Qiu : QiuJohnny26
-* Mohamed Raffik: MohamedRaffik
-* Yin Yu: c135792468
-* Kristoff Campbell: Wicked223
+* Emily Ramjit: emily-ramjit
 * Harneet Kaur: harneetkaur9
-* Ray Contreras: raythecon
-* Qiuqun Wang: HakQ
-<<<<<<< HEAD
-<<<<<<< HEAD
- * pasang sherpa: codeMacha >>>>>>> 486788059494e59e7cd65177eb5010b1fafeedfb
-=======
+* Hasan Abdullah: HasanAbdullah31
+* Jack Chen
+* Johnny Qiu : QiuJohnny26
+* Kevin R Espinola: kre64
+* Kristoff Campbell: Wicked223
+* Mohamed Raffik: MohamedRaffik
 * Mohammed Elsayed: SmallMoist
->>>>>>> 9006793a4f237cc646951a2f057c0fe3b9e63ca6
-=======
-* Mohammed Elsayed: SmallMoist * pasang sherpa: codeMacha 
->>>>>>> 57ba8b1ead7f15fa0667084f8d12d9f5a9c409f8
+* Pasang Sherpa: codeMacha
+* Qiuqun Wang: HakQ
+* Ray Contreras: raythecon
+* Rebecca Sliter: rsliter
+* Shelly Huang
+* Yin Yu: c135792468
