@@ -20,7 +20,7 @@ Help college seniors to experience agile engineering by simulating a real world 
 * Students will deliver working software by the end of the semester.
 
 ## Required Readings
-eXtreme Programming Explained: Embrace Change, 2nd Edition
+eXtreme Programming Explained: Embrace Change, 2nd Edition - you can access a PDF copy through a free trial on [Safari](https://www.safaribooksonline.com/).
 
 ## Language
 All code will be written in Python using the Flask programming framework.
@@ -49,7 +49,7 @@ Notes from each class will also be posted to this repository after each class se
 
 * *Homework*: there will be discussion on two reading assignments in the following lecture:
     * [Why New York Subway Lines are Missing Train Clocks](https://www.theatlantic.com/technology/archive/2015/11/why-dont-we-know-where-all-the-trains-are/415152/)
-    * “Planning” chapter from eXtreme Programming Explained.
+    * “Planning” chapter (Chapter 12) from eXtreme Programming Explained.
 
 ### September 5: How We Build Software in Teams
 * Discussion of assigned readings.
