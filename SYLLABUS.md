@@ -47,10 +47,6 @@ Notes from each class will also be posted to this repository after each class se
   * /multiply
   * /divide
 
-* *Homework*: there will be discussion on two reading assignments in the following lecture:
-    * [Why New York Subway Lines are Missing Train Clocks](https://www.theatlantic.com/technology/archive/2015/11/why-dont-we-know-where-all-the-trains-are/415152/)
-    * “Planning” chapter (Chapter 12) from eXtreme Programming Explained.
-
 ### September 5: No class.
     
 ### September 12: Intro to Web 2.0 and Databases
@@ -63,6 +59,10 @@ Notes from each class will also be posted to this repository after each class se
 ### September 26: Pair-Programming
 * Discussion of assigned reading.
 * Pair-programming workshop.
+
+* *Homework*: there will be discussion on two reading assignments in the following lecture:
+    * [Why New York Subway Lines are Missing Train Clocks](https://www.theatlantic.com/technology/archive/2015/11/why-dont-we-know-where-all-the-trains-are/415152/)
+    * “Planning” chapter (Chapter 12) from eXtreme Programming Explained.
 
 ### October 3: 
 How We Build Software in Teams
