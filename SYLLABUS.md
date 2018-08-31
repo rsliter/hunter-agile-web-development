@@ -51,10 +51,7 @@ Notes from each class will also be posted to this repository after each class se
     * [Why New York Subway Lines are Missing Train Clocks](https://www.theatlantic.com/technology/archive/2015/11/why-dont-we-know-where-all-the-trains-are/415152/)
     * “Planning” chapter (Chapter 12) from eXtreme Programming Explained.
 
-### September 5: How We Build Software in Teams
-* Discussion of assigned readings.
-* Introduction to planning.
-* *Homework*: each group has tasks ready on Trello for the next session.
+### September 5: No class.
     
 ### September 12: Intro to Web 2.0 and Databases
 * *Homework*: Convert your web app to use ajax to load and set data via an API instead of using page
@@ -67,16 +64,25 @@ Notes from each class will also be posted to this repository after each class se
 * Discussion of assigned reading.
 * Pair-programming workshop.
 
-### October 3: Open Working Session
+### October 3: 
+How We Build Software in Teams
+* Discussion of assigned readings.
+* Introduction to planning.
+* *Homework*: each group has tasks ready on Trello for the next session.
+
 *Homework*: Groups will demo their project next session.
 
-### October 10: V1 of Project Due
+### October 10: Open Working Session
 * *Demos*: Each student will demo their project for 2 minutes (timed) followed by 2 minutes of Q&A.
 * Introduction to Retrospectives
 * *Homework*: each group’s retrospective facilitator will need to post the retrospective notes to Github.
 * *Homework*: each group will need to plan an extension of their project. The extension work should be posted to Trello by the next class.
 
-### October 17: Open Working Session
+### October 17: V1 of Project Due
+* *Demos*: Each student will demo their project for 2 minutes (timed) followed by 2 minutes of Q&A.
+* Introduction to Retrospectives
+* *Homework*: each group’s retrospective facilitator will need to post the retrospective notes to Github.
+* *Homework*: each group will need to plan an extension of their project. The extension work should be posted to Trello by the next class.
 * *Homework*: there will be discussion on one assigned reading in the following lecture:
     * “Testing” chapter from eXtreme Programming Explained.
 
