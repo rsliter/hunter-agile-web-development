@@ -55,7 +55,7 @@ Notes from each class will also be posted to this repository after each class se
   * The web form should submit calculation commands through Ajax requests.
 
 * *Homework*: there will be discussion on one assigned reading in the following lecture:
-    * “Pairing” chapter from eXtreme Programming Explained.
+    * “Pairing” chapter from eXtreme Programming Explained (pages 173-178).
 
 ### September 19: No class.
 
