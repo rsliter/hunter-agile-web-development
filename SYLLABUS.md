@@ -67,8 +67,7 @@ Notes from each class will also be posted to this repository after each class se
     * [Why New York Subway Lines are Missing Train Clocks](https://www.theatlantic.com/technology/archive/2015/11/why-dont-we-know-where-all-the-trains-are/415152/)
     * “Planning” chapter (Chapter 12) from eXtreme Programming Explained.
 
-### October 3: 
-How We Build Software in Teams
+### October 3: How We Build Software in Teams
 * Discussion of assigned readings.
 * Introduction to planning.
 * *Homework*: each group has tasks ready on Trello for the next session.
@@ -76,10 +75,7 @@ How We Build Software in Teams
 *Homework*: Groups will demo their project next session.
 
 ### October 10: Open Working Session
-* *Demos*: Each student will demo their project for 2 minutes (timed) followed by 2 minutes of Q&A.
-* Introduction to Retrospectives
-* *Homework*: each group’s retrospective facilitator will need to post the retrospective notes to Github.
-* *Homework*: each group will need to plan an extension of their project. The extension work should be posted to Trello by the next class.
+*Homework*: Groups will demo their project next session.
 
 ### October 17: V1 of Project Due
 * *Demos*: Each student will demo their project for 2 minutes (timed) followed by 2 minutes of Q&A.
