@@ -72,14 +72,16 @@ Notes from each class will also be posted to this repository after each class se
 * Introduction to planning.
 * *Homework*: each group has tasks ready on Trello for the next session.
 
-*Homework*: Groups will demo their project next session.
+The first version of your Flask web application should:
+* Allow a user to choose an picture to filter;
+* Allow a user to select from 3 potential image filters (of your choosing);
+* Display the filtered image to the user.
 
 ### October 10: Open Working Session
 *Homework*: Groups will demo their project next session.
 
 ### October 17: V1 of Project Due
 * *Demos*: Each student will demo their project for 2 minutes (timed) followed by 2 minutes of Q&A.
-* Introduction to Retrospectives
 * *Homework*: each group’s retrospective facilitator will need to post the retrospective notes to Github.
 * *Homework*: each group will need to plan an extension of their project. The extension work should be posted to Trello by the next class.
 * *Homework*: there will be discussion on one assigned reading in the following lecture:
