@@ -84,17 +84,19 @@ The first version of your Flask web application should:
 * *Demos*: Each student will demo their project for 2 minutes (timed) followed by 2 minutes of Q&A.
 * *Homework*: each group’s retrospective facilitator will need to post the retrospective notes to Github.
 * *Homework*: each group will need to plan an extension of their project. The extension work should be posted to Trello by the next class.
+
+### October 24: Deployment
+* Workshop on Heroku Deployment.
+* *Homework*: each group is able to deploy code to Heroku by the next class. Their deploy script should be checked-in to their source repository on Github.
 * *Homework*: there will be discussion on one assigned reading in the following lecture:
     * “Testing” chapter from eXtreme Programming Explained.
 
-### October 24: Testing
+### October 31: Testing
+
 * Discussion of assigned reading.
 * Workshop on Testing.
 * *Homework*: each team member should add test coverage to their app by the next session.
 
-### October 31: Deployment
-* Workshop on Heroku Deployment.
-* *Homework*: each group is able to deploy code to Heroku by the next class. Their deploy script should be checked-in to their source repository on Github.
 
 ### November 7: Open Working Session
 
