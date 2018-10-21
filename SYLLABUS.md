@@ -83,7 +83,10 @@ The first version of your Flask web application should:
 ### October 17: V1 of Project Due
 * *Demos*: Each student will demo their project for 2 minutes (timed) followed by 2 minutes of Q&A.
 * *Homework*: each group’s retrospective facilitator will need to post the retrospective notes to Github.
-* *Homework*: each group will need to plan an extension of their project. The extension work should be posted to Trello by the next class.
+* *Homework*: each group will need to plan an extension of their project. The extension work should be posted to Trello by the next class. Your group's extension must:
+  * build on top of your image filter app;
+  * be big enough that the work can be split across the team;
+  * make use of a new technology (database, Python library, etc)
 
 ### October 24: Deployment
 * Workshop on Heroku Deployment.
