@@ -90,7 +90,7 @@ The first version of your Flask web application should:
 
 ### October 24: Deployment
 * Workshop on Heroku Deployment.
-* *Homework*: each group is able to deploy code to Heroku by the next class. Their deploy script should be checked-in to their source repository on Github.
+* *Homework*: each group is able to deploy code to Heroku by the next class.
 * *Homework*: there will be discussion on one assigned reading in the following lecture:
     * “Testing” chapter from eXtreme Programming Explained.
 
