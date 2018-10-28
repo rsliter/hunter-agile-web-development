@@ -28,10 +28,12 @@ All code will be written in Python using the Flask programming framework.
 ## Method of Evaluation
 This is a project-based course. Each student’s contributions will be graded throughout the semester according to the following:
 
-* 50%: code contributions - although this is a group project, we will be periodically checking Github to ensure each teammate is contributing a fair amount;
-* 30%: requirements achieved for each version of the coding project (3 versions due);
-* 15%: strength of demos delivered throughout project;
-* 5%: participation in retrospectives (graded through notes).
+* 1% for each homework assignment at the beginning of the semester. There will be 2 of these assignments.
+* 26% for each version of the team coding project (3 total versions). You will be graded on:
+  * 50%: code contributions - although this is a group project, we will be periodically checking Github to ensure each teammate is contributing a fair amount;
+  * 50%: requirements achieved for each version of the coding project (3 versions due);
+* 5%: for each demo delivered during project. There will be 3 demos total;
+* 2.5%: participation in retrospectives (2 total) (graded through notes).
 
 For more information on expectations for these deliverables, see the [Rubrics page](RUBRICS.md).
 
