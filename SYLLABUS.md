@@ -100,7 +100,9 @@ The first version of your Flask web application should:
 
 * Discussion of assigned reading.
 * Workshop on Testing.
-* *Homework*: each team member should add test coverage to their app by the next session.
+* *Homework*:
+  * Each team member should add tests to existing functionality by the next session.
+  * Update your team's .circle/config.yml file to include steps to run tests. See [here|https://gist.github.com/rsliter/eeff4018b4da3f5b204a107d27409539] for a sample circle config file.
 
 
 ### November 7: Open Working Session
