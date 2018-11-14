@@ -107,12 +107,12 @@ The first version of your Flask web application should:
 
 ### November 7: Open Working Session
 
-### November 14: Extension of Project Due; Introduction to Retrospectives
+### November 14: Extension of Project Due; Documentation
 * *Demos*: Each student will demo their project, on Heroku, for 2 minutes (timed) followed by 2 minutes of Q&A.
 * *Homework*: each group’s retrospective facilitator will need to post the retrospective notes to Github.
+* *Homeowkrk*: document your teams code - through comments, diagrams, writeups etc - as you see fit. This documentation should live in "/docs"  within the project Git repository.
 
-### November 21: Documentation
-*Homework*: project groups should come up with documentation about how their program works. This documentation should live in “static/docs” within the project Git repository.
+### November 21: No class
 
 ### November 28: New Feature Requirement
 *Documentation demos*: Each group will demo their documentation for 2 minutes (timed) followed by 2 minutes of Q&A.
