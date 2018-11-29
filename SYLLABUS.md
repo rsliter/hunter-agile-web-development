@@ -116,6 +116,13 @@ The first version of your Flask web application should:
 
 ### November 28: New Feature Requirement
 *Documentation demos*: Each group will demo their documentation for 2 minutes (timed) followed by 2 minutes of Q&A.
+*Homework*: V3 of your app should allow you to sort images into photo albums. These are the requirements:
+  * A user should be able to create and name photo albums;
+  * A user should be able to select a photo album to add an image to;
+  * An image can be added to multiple photo albums;
+  * The photo album should persist across sessions (you’ll need to store the album data somewhere).
+  
+*Extra Credit*: Implement social media sharing to Facebook and Twitter in exchange for one initial homework assignment (Flask app V1 or V2) grade set to 100%
 
 ### December 5: Intro to Design & Product
 A Guest Lecturer will give an overview of their work in the industry and introduce the team to Twitter bootstrap.
